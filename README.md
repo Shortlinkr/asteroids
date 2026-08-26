@@ -8,7 +8,7 @@ This is a side project that I work on when I'm bored. That's pretty much it.
 
 ## Features
 
-- **Gameplay:** You know what Asteroids is. It has a shotgun though.
+- **Gameplay:** You know what Asteroids is. Really the only difference is you can have different guns.
 - **Game Modes:**
   - Single Player
   - 2-Player Local VS
